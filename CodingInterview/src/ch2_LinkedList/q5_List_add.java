@@ -1,6 +1,6 @@
 package ch2_LinkedList;
 
-public class q5 {
+public class q5_List_add {
 
 	public static int len(Node n) {
 		int k = 0;
