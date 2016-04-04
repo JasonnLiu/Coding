@@ -14,7 +14,6 @@ public class q1_upstairs {
 			up(done, 2, h);
 			up(done, 3, h);
 		}
-
 	}
 
 	public static void up(int done, Helper h) {
