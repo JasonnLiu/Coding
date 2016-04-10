@@ -18,7 +18,7 @@ public class Intersection_of_Two_Linked_Lists {
 			while (q.next != null) {
 				B = B.next;
 				q = q.next;
-			}
+			} 
 		}
 		if (q.next == null) {
 			while (p.next != null) {
