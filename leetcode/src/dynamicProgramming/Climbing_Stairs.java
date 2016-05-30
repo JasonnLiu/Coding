@@ -13,7 +13,7 @@ public class Climbing_Stairs {
 		for (int i = n - 3; i >= 0; i--) {
 			ways[i] = ways[i + 1] + ways[i + 2];
 		}
-		return ways[0]; 
+		return ways[0];  
 
 	}
 
